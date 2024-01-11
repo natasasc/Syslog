@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\bin\Debug\AFManager.dll
+C:\Users\User\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\bin\Debug\AFManager.pdb
+C:\Users\User\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.AuditEventFile.resources
+C:\Users\User\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.dll
+C:\Users\User\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.pdb
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\bin\Debug\AFManager.dll
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\bin\Debug\AFManager.pdb
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.AuditCCEventFile.resources
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.AuditEventFile.resources
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.csproj.GenerateResource.cache
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.csproj.CoreCompileInputs.cache
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.dll
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.pdb
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\AFManager\obj\Debug\AFManager.csproj.AssemblyReference.cache

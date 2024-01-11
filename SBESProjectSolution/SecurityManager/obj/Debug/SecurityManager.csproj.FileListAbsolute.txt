@@ -1,0 +1,12 @@
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\bin\Debug\Contracts.dll
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\bin\Debug\Contracts.pdb
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\obj\Debug\SecurityManager.csproj.AssemblyReference.cache
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\obj\Debug\SecurityManager.AuditEventFile.resources
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\obj\Debug\SecurityManager.RolesConfigFile.resources
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\obj\Debug\SecurityManager.csproj.CopyComplete
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\SecurityManager\obj\Debug\SecurityManager.pdb

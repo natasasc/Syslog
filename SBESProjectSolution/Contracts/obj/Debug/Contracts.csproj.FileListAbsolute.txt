@@ -1,0 +1,5 @@
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\Contracts\bin\Debug\Contracts.dll
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\Contracts\bin\Debug\Contracts.pdb
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\Contracts\obj\Debug\Contracts.dll
+C:\Users\AS\Documents\GitHub\SBESProject\SBESProjectSolution\Contracts\obj\Debug\Contracts.pdb
